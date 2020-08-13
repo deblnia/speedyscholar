@@ -1,7 +1,12 @@
 # Introduction
 
-This is a place for me to put notes on vaguely academic things I read. I'm hoping to also build out some projects to store notes on talks, and more general interest reads / resources. 
+This is a place for me to put notes on vaguely academic things I read. 
 
 Idea originally from Ayman Nadeem's [project by the same name](https://github.com/aymannadeem/speedyscholar).
 
-* TOC {:toc}
+---
+ 
+# Table of contents
+
+* [Introduction](README.md)
+* [Regulatory Entrepreneurship](regulatoryentreprenuership.md)
