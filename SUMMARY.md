@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Data types a la carte](first-question.md)
@@ -10,3 +10,4 @@
 * [Efficient and Flexible Incremental Parsing](efficient-and-flexible-incremental-parsing.md)
 * [Abstracting Definitional Interpreters](abstracting-definitional-interpreters.md)
 * [Deep Code Comment Generation](deep-code-comment-generation.md)
+

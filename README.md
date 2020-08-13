@@ -1,4 +1,6 @@
-This is a place for me to put notes on the things I read. 
+# Introduction
 
-Heavily inspired and borrowed from Ayman Nadeem's [project by the same
-name](https://github.com/aymannadeem/speedyscholar). 
+This is a place for me to put notes on the things I read.
+
+Forked from Ayman Nadeem's [project by the same name](https://github.com/aymannadeem/speedyscholar).
+
