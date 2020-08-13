@@ -8,5 +8,4 @@ Idea originally from Ayman Nadeem's [project by the same name](https://github.co
  
 # Table of contents
 
-* [Introduction](README.md)
 * [Regulatory Entrepreneurship, Elizabeth Pollman and Jordan Berry](regulatoryentreprenuership.md)
