@@ -1,6 +1,6 @@
 # Introduction
 
-This is a place for me to put notes on the things I read.
+This is a place for me to put notes on vaguely academic things I read. I'm hoping to also build out some projects to store notes on talks, and general reads / resources. 
 
-Forked from Ayman Nadeem's [project by the same name](https://github.com/aymannadeem/speedyscholar).
+Idea originally from Ayman Nadeem's [project by the same name](https://github.com/aymannadeem/speedyscholar).
 
