@@ -1,7 +1,9 @@
-[_Regulatory Entreprenuership_](https://poseidon01.ssrn.com/delivery.php?ID=873102088082120001102020087085085071063022072087058011076073015078082012067084103014062000018022024047055081014014027120079104107069090006054118105113080069013006060020071008121120001023002007109068124091089125008067016011095124064092119122064121088&EXT=pdf), Elizabeth Pollman and Jordan Berry. 
+# [_Regulatory Entreprenuership_](https://poseidon01.ssrn.com/delivery.php?ID=873102088082120001102020087085085071063022072087058011076073015078082012067084103014062000018022024047055081014014027120079104107069090006054118105113080069013006060020071008121120001023002007109068124091089125008067016011095124064092119122064121088&EXT=pdf), Elizabeth Pollman and Jordan Berry. {-}
 
 Describes a line of business in which changing the law is a significant part of the business plan. 
+
 - Cites (well-funded, scalable, highly connected startups with mass appeal) like AirBnB, Uber, Tesla, the UFC, marijuana dispensaries and DraftKings as agents of regulatory change. 
+
 - Legislative change is achieved with:
     -  an initial breaking/operating in a grey area of the law (asking forgiveness not permission)
     - which continues while the company grows "too big to ban", 
