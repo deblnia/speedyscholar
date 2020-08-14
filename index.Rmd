@@ -8,8 +8,8 @@ bibliography: [book.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: deblnia/speedyscholar
-url: 'http\://seankross.com/bookdown-start/'
-description: "Everything you need (and nothing more) to start a bookdown book."
+url: 'https://deblnia.github.io/speedyscholar/'
+description: "Quick summaries of not quick ideas"
 ---
 
 # Preface 
