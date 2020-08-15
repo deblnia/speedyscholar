@@ -1,7 +1,7 @@
 --- 
 title: "Speedy Scholar"
 author: "Deblina Mukherjee"
-date: "2020-08-13"
+date: "2020-08-15"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib]
