@@ -1,4 +1,4 @@
-# [_Simulation and Similarity:Using Models to Understand the World_](./assets/simandsim.pdf){target="_blank"}, Michael Weisberg. {-} 
+# _Simulation and Similarity:Using Models to Understand the World_, Michael Weisberg. {-}
 
 - Models are indirect study of real-world systems, different from other forms of representation and analysis, interpreted structures 
 - Three types of modelling: mathematical, computational, concrete 
